@@ -1,6 +1,5 @@
 # python_projects1
-# Python program to solve 
-the given question
+# Python program to solve the given question
 
 # Create class for hotel data.
 class Hotel :
